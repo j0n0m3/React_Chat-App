@@ -1,4 +1,3 @@
-# React-Chat
 React, Redux, Firebase, Semantic-UI
 
 ```npm start```
