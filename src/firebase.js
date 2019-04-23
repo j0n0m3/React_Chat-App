@@ -12,7 +12,6 @@ var config = {
   storageBucket: 'react-chat-9649a.appspot.com',
   messagingSenderId: '364860090938'
 };
-
 firebase.initializeApp(config);
 
 export default firebase;
