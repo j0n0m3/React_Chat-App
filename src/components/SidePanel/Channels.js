@@ -101,8 +101,6 @@ class Channels extends React.Component {
           active={channel.id === this.state.activeChannel}
         >
           # {channel.name}
-          {console.log('channel: ', channel.name)}
-          {console.log('channels: ', channels)}
         </Menu.Item>
       ));
     }
